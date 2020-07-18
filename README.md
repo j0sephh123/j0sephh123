@@ -4,5 +4,5 @@ Just experimenting with adding README to my own profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently playing with mostly React (Nextjs), a little bit of Vue, unit testing with Jest, NestJS 
+- Currently working on a platform where one can manage your youtube videos. It's using React/Strapi.
 
